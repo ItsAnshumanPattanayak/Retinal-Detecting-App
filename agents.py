@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 MediAgent-Retina: AI Agent Modules
-5 Specialized AI Agents for Retinal Disease Analysis
+5 Specialized AI Agents for Retinal Disease Analysis   
 """
 
 import datetime
